@@ -1,0 +1,20 @@
+{
+    "validUser": {
+      "fullName": "John",
+      "email": "john",
+      "password": "Password123!",
+      "confirmPassword": "Password123!"
+  },
+
+  "invalidEmailUser": {
+    "fullName": "John",
+    "email": "invalidEmail",
+    "password": "Password123!",
+    "confirmPassword": "Password123!"
+  },
+
+  "loginUser": {
+    "email": "Test@123.com",
+    "password": "Password123"
+  }
+}
